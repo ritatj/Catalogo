@@ -4,7 +4,7 @@
 <tbody>
 <tr>
 <td>Art&iacute;culo&nbsp;</td>
-<td>Muestra</td>
+<td>Mues tra</td>
 <td>Precio</td>
 <td>Colores</td>
 </tr>
