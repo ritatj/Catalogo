@@ -2,7 +2,7 @@
  
  ![](http://p85.cooltext.com/Rendered/Cool%20Text%20-%20Articulos%20de%20cocina%20282799991349164.png)
 
-|      _Artículo_     |                                                          _Imagen de muestra_                                                         |         _Colores disponibles_         | _Unidades disponibles_ | _Precio unitario_ |
+|      _Artículo_     |                                                          _Imagen de muestra_                                                         |         _Colores disponibles_         | _Unidades disponibles_ | _Precio_ |
 |:-----------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|:--------------------:|:---------------:|
 |       **Tazas**       |                            ![](http://vitromugs.com.mx/wp-content/uploads/2016/07/taza-conica-roja.jpg)                            |          Rojo Azul Amarillo         |          25          |        $12      |
 |       **Vasos**       |                              ![](https://http2.mlstatic.com/D_Q_NP_728619-MLA26271458729_112017-Q.jpg)                             |      Rosas  Verdes Transparetes     |          13          |       $20       |
